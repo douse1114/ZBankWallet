@@ -2,6 +2,8 @@
 
 Starting ZBank Wallet
 
+The process for creating this blockchain wallet was pretty straight forward.  It started by creating 2 nodes and then intializing a genesis block.  This blockchain is simply a testnet and was created using Clique and is a Power of Authority network.  I used the puppeth function to create the genesis block and to name the network.  The information for the 2 nodes that I initialy created was saved into a txt file called 'Node Addresses.'  These addresses were important when it came time for activating the 2 nodes on the blockchain and sending transactions on the blockchain.  
+
 In order to start making transactions with the ZBank Wallet, there are a few steps that need to be completed first.
 
 1. Start by activating both nodes that were created.  In order to do this, it is necessary to have Geth Tools installed on the device you are using and these tools must me present in the folder that you are running the nodes in.  In this case all actions will be taking place in the Zbank folder.
