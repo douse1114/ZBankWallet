@@ -19,3 +19,5 @@ In order to start making transactions with the ZBank Wallet, there are a few ste
 
 8. Once the wallet is unlocked, you will then be able to submit transactions for processing by entering the sending wallet address and the amount.  Then you will click send transaction.  You will see a pop up at the bottom of the screen that shows the transaction hash number.  Save this as a way of tracking the status of the transaction.  These transactions can be viewed under 'TX status' or they can be viewed on 'etherscan.com.'  You will also be able to see the account balance on the right hand side of the screen right below the account address.
 
+Screenshots of the genesis block creation through puppeth can be found in the screenshots folder.  There are also additional screenshots of each step of the transaction process in the screenshots folder as well.
+
