@@ -17,5 +17,5 @@ In order to start making transactions with the ZBank Wallet, there are a few ste
 
 7.  Return to the home page and select 'Keystore File' at the bottom.  Upload the keystore file for Node 1 and enter the password that was created for the node and click unlock.
 
-8. Once the wallet is unlocked, you will then be able to submit transactions for processing by entering the sending wallet address and the amount.  Then you will click send transaction.  You will see a pop up at the bottom of the screen that shows the transaction hash number.  Save this as a way of tracking the status of the transaction.  These transactions can be viewed under 'TX status' or they can be viewed on 'etherscan.com'
+8. Once the wallet is unlocked, you will then be able to submit transactions for processing by entering the sending wallet address and the amount.  Then you will click send transaction.  You will see a pop up at the bottom of the screen that shows the transaction hash number.  Save this as a way of tracking the status of the transaction.  These transactions can be viewed under 'TX status' or they can be viewed on 'etherscan.com.'  You will also be able to see the account balance on the right hand side of the screen right below the account address.
 
